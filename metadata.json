@@ -1,0 +1,5 @@
+{
+  "name": "今日の天気アプリ",
+  "description": "東京の今日の天気を取得し、グラフィカルに表示するシンプルなReactアプリケーションです。",
+  "requestFramePermissions": []
+}
